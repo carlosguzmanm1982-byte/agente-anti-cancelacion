@@ -53,3 +53,10 @@ git clone [URL_DEL_REPOSITORIO](https://github.com/carlosguzmanm1982-byte/agente
 
 Link del proyecto:
 https://github.com/carlosguzmanm1982-byte/agente-anti-cancelacion
+
+## 📌 Link de ejecución
+
+Para ejecutar el proyecto:
+
+```bash
+streamlit run app.py
